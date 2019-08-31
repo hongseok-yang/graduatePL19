@@ -18,7 +18,7 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 * Lecturer: [Prof Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok00@gmail.com, office hour: 6:00pm - 7:00pm on Tuesday at the room 3403 in the E3-1 building).
 * TA: Hyoungjin Lim (email: lmkmkr@kaist.ac.kr).
-* TA: Jungmin Park (email: yhk1344@kaist.ac.kr).
+* TA: Jungmin Park (email: qkrclrl701@kaist.ac.kr).
 * Office hour by TA: To be announced soon.
 
 #### Place and Time
@@ -67,4 +67,41 @@ Submit your solutions by putting them in the homework submission box in the thir
 * 12/09 - A Normal-Order Language (Ch14).
 * 12/11 - A Normal-Order Language (Ch14).
 * __**12/16 12/18 - NO LECTURES. Final Exam.**__
+
+## 5. Studying Materials
+
+We will mainly follow Reynolds's book, but study the materials appearing in Chapters 8 and 10 of Tennent's book.
+
+* Main Textbook 1 : [Theories of Programming Languages, John C Reynolds](https://www.cambridge.org/core/books/theories-of-programming-languages/19530A88F3471B2A7D9891770B21DAF9), Cambridge University Press, 1998. 
+* Main Textbook 2 : Semantics of Programming Languages, Robert D. Tennent, Prentice Hall, 1991. Chapters 8 and 10 only.
+
+In addition to the two books above, the following books will have further information about the topics covered in the course. In particular, Gunter's book goes deep into the domain theory, and Pierce's book into the type theory.
+
+* Auxiliary Textbook 1 : Semantics of Programming Languages: Structures and Techniques, Carl A. Gunter, MIT Press, 1992.
+* Auxiliary Textbook 2 : Types and Programming Languages, Benjamin C. Pierce, MIT Press, 2002.
+* Auxiliary Textbook 3 : Formal Semantics of Programming Languages: an Introduction, Glynn Winskel, MIT Press, 1993.
+
+The following classic papers or their recent reprints contain deep insight into some of topics that we study throughout the course.
+
+* John C. Reynolds, [Definitional Interpreters for Higher-Order Programming Languages](https://doi.org/10.1023/A:1010027404223), Higher-Order and Symbolic Computation, 1998. 
+* Luis Damas and Robin Milner, [Principal Type-Schemes for Functional Programs](http://delivery.acm.org/10.1145/590000/582176/p207-damas.pdf?ip=143.248.139.205&id=582176&acc=ACTIVE%20SERVICE&key=0EC22F8658578FE1%2E7500FBAD1E9579D9%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1567231217_bd323d29bb3dd1284226b705f197d86b), POPL 1982.
+
+## 5. Two Critical Reviews
+
+One important part of this course is to study assigned reading materials and write reviews about them. It accounts for the 30% of the total marks of this course. In order to get full marks, a student has to show in his or her write-up that she or he has thought hard about the materials and gone beyond the simple understanding of them. Here are the details of this assignments.
+
+1. There are two assignments for this critical review.
+2. First assignment: 
+   1. Topic: Critical review on Chapter 8 of Reynolds's book.
+   2. Deadline: __**midnight of the 1st of November in 2019 (Friday).**__
+   3. Reading material: Chapter 8 of Reynolds's ''Theories of Programming Languagues.'' This chapter is about shared-variable concurrency. To understand the chapter, you may have to know some materials in Chapter 7, which is about nondeterminism and guarded commands.
+3. Second assignment.
+   1. Topic: ML type inference. 
+   2. Deadline: __**midnight of the 9th of December in 2019 (Monday).**__
+   3. References: 
+      * Francois Pottier, [A Modern Eye on ML Type Inference](http://cristal.inria.fr/~fpottier/publis/fpottier-appsem-2005.pdf), September, 2005.
+      * Francois Pottier and Didier Remy, [The Essence of ML Type Inference](http://gallium.inria.fr/~fpottier/publis/emlti-final.pdf), Chapter 10, Advanced Topics in Types and Programming Languages. An extended version of the paper and a prototype implementation are available [here](http://cristal.inria.fr/attapl/). ,
+      * Luis Damas and Robin Milner, [Principal Type-Schemes for Functional Programs](http://delivery.acm.org/10.1145/590000/582176/p207-damas.pdf?ip=143.248.139.205&id=582176&acc=ACTIVE%20SERVICE&key=0EC22F8658578FE1%2E7500FBAD1E9579D9%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1567231217_bd323d29bb3dd1284226b705f197d86b), POPL 1982.
+4. A review should have three pages or less.
+
 

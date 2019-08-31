@@ -92,7 +92,7 @@ One important part of this course is to study assigned reading materials and wri
 
 1. There are two assignments for this critical review.
 2. First assignment: 
-   1. Topic: Critical review on Chapter 8 of Reynolds's book.
+   1. Topic: Shared-variable concurrency explained in Chapter 8 of Reynolds's book.
    2. Deadline: __**midnight of the 1st of November in 2019 (Friday).**__
    3. Reading material: Chapter 8 of Reynolds's ''Theories of Programming Languagues.'' This chapter is about shared-variable concurrency. To understand the chapter, you may have to know some materials in Chapter 7, which is about nondeterminism and guarded commands.
 3. Second assignment.

@@ -99,9 +99,9 @@ One important part of this course is to study assigned reading materials and wri
    1. Topic: ML type inference. 
    2. Deadline: __**midnight of the 9th of December in 2019 (Monday).**__
    3. References: 
-      * Francois Pottier, [A Modern Eye on ML Type Inference](http://cristal.inria.fr/~fpottier/publis/fpottier-appsem-2005.pdf), September, 2005.
-      * Francois Pottier and Didier Remy, [The Essence of ML Type Inference](http://gallium.inria.fr/~fpottier/publis/emlti-final.pdf), Chapter 10, Advanced Topics in Types and Programming Languages. An extended version of the paper and a prototype implementation are available [here](http://cristal.inria.fr/attapl/). ,
-      * Luis Damas and Robin Milner, [Principal Type-Schemes for Functional Programs](http://delivery.acm.org/10.1145/590000/582176/p207-damas.pdf?ip=143.248.139.205&id=582176&acc=ACTIVE%20SERVICE&key=0EC22F8658578FE1%2E7500FBAD1E9579D9%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1567231217_bd323d29bb3dd1284226b705f197d86b), POPL 1982.
+      1. Francois Pottier, [A Modern Eye on ML Type Inference](http://cristal.inria.fr/~fpottier/publis/fpottier-appsem-2005.pdf), September, 2005.
+      2. Francois Pottier and Didier Remy, [The Essence of ML Type Inference](http://gallium.inria.fr/~fpottier/publis/emlti-final.pdf), Chapter 10, Advanced Topics in Types and Programming Languages. An extended version of the paper and a prototype implementation are available [here](http://cristal.inria.fr/attapl/).
+      3. Luis Damas and Robin Milner, [Principal Type-Schemes for Functional Programs](http://delivery.acm.org/10.1145/590000/582176/p207-damas.pdf?ip=143.248.139.205&id=582176&acc=ACTIVE%20SERVICE&key=0EC22F8658578FE1%2E7500FBAD1E9579D9%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1567231217_bd323d29bb3dd1284226b705f197d86b), POPL 1982.
 4. A review should have three pages or less.
 
 

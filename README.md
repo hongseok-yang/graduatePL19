@@ -92,7 +92,7 @@ One important part of this course is to study assigned reading materials and wri
 
 1. There are two assignments for this critical review.
 2. First assignment: 
-   1. Topic: Shared-variable concurrency explained in Chapter 8 of Reynolds's book.
+   1. Topic: Shared-variable concurrency.
    2. Deadline: __**midnight of the 1st of November in 2019 (Friday).**__
    3. Reading material: Chapter 8 of Reynolds's ''Theories of Programming Languagues.'' This chapter is about shared-variable concurrency. To understand the chapter, you may have to know some materials in Chapter 7, which is about nondeterminism and guarded commands.
 3. Second assignment.
@@ -100,8 +100,8 @@ One important part of this course is to study assigned reading materials and wri
    2. Deadline: __**midnight of the 9th of December in 2019 (Monday).**__
    3. References: 
       1. Francois Pottier, [A Modern Eye on ML Type Inference](http://cristal.inria.fr/~fpottier/publis/fpottier-appsem-2005.pdf), September, 2005.
-      2. Francois Pottier and Didier Remy, [The Essence of ML Type Inference](http://gallium.inria.fr/~fpottier/publis/emlti-final.pdf), Chapter 10, Advanced Topics in Types and Programming Languages. An extended version of the paper and a prototype implementation are available [here](http://cristal.inria.fr/attapl/).
-      3. Luis Damas and Robin Milner, [Principal Type-Schemes for Functional Programs](https://dl.acm.org/citation.cfm?id=582176), POPL 1982.
+      2. Luis Damas and Robin Milner, [Principal Type-Schemes for Functional Programs](https://dl.acm.org/citation.cfm?id=582176), POPL 1982.
+      3. (Optional) Francois Pottier and Didier Remy, [The Essence of ML Type Inference](http://gallium.inria.fr/~fpottier/publis/emlti-final.pdf), Chapter 10, Advanced Topics in Types and Programming Languages. An extended version of the paper and a prototype implementation are available [here](http://cristal.inria.fr/attapl/).
 4. A review should have three pages or less.
 
 

@@ -10,7 +10,7 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 #### [5 September] Room change
 
-From the lecture on 9 September (Monday), we will meet in the room 112, N1 building.
+From the lecture on 9 September (Monday), we will meet at the room 112 in the N1 building. Also, the final exam will take place at the room 112 as well.
 
 ## 2. Logistics
 
@@ -29,7 +29,7 @@ From the lecture on 9 September (Monday), we will meet in the room 112, N1 build
 
 * Place: room 112 in the N1 building
 * Time: 10:30am - 11:45am on Monday and Wednesday from 2 September 2019 until 20 December 2019.
-* Final exam: 9:00am - 11:00am on 18 December 2019 (Wednesday) at the room 111 in the N1 building.
+* Final exam: 9:00am - 11:00am on 18 December 2019 (Wednesday) at the room 112 in the N1 building.
 
 #### Online Discussion
 

@@ -23,7 +23,7 @@ From the lecture on 9 September (Monday), we will meet at the room 112 in the N1
 * Lecturer: [Prof Hongseok Yang](https://cs.kaist.ac.kr/people/view?idx=552&kind=faculty&menu=160) (email: hongseok00@gmail.com, office hour: 6:00pm - 7:00pm on Tuesday at the room 3403 in the E3-1 building).
 * TA: Hyoungjin Lim (email: lmkmkr@kaist.ac.kr).
 * TA: Jungmin Park (email: qkrclrl701@kaist.ac.kr).
-* Office hour by TA: To be announced soon.
+* Office hour by TA: 3:00pm - 5:00pm on Monday at the room 3431 in the E3-1 building.
 
 #### Place and Time
 
@@ -37,7 +37,7 @@ From the lecture on 9 September (Monday), we will meet at the room 112 in the N1
 
 ## 3. Homework
 
-Submit your solutions by putting them in the homework submission box in the third floor of the E3-1 building.
+Submit your solutions by putting them in the homework submission box in the third floor of the E3-1 building, or uploading your solutions on KLMS.
 
 ## 4. Tentative Plan
 

@@ -8,6 +8,10 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 ## 1. Important Announcements
 
+#### [22 September] [Homework1](https://github.com/hongseok-yang/graduatePL19/blob/master/Homework/Homework1/homework1-questions.pdf)
+
+The first [homework](https://github.com/hongseok-yang/graduatePL19/blob/master/Homework/Homework1/homework1-questions.pdf) is out. The deadline is 2:00pm on the 4th of October 2019 (Friday). Submit your solutions to the TAs by putting them in the homework submission box in the third floor of the E3-1 building. If you type up your solutions, you can submit them via KLMS.
+
 #### [5 September] Room change
 
 From the lecture on 9 September (Monday), we will meet at the room 112 in the N1 building. Also, the final exam will take place at the room 112 as well.
@@ -38,6 +42,8 @@ From the lecture on 9 September (Monday), we will meet at the room 112 in the N1
 ## 3. Homework
 
 Submit your solutions by putting them in the homework submission box in the third floor of the E3-1 building, or uploading your solutions on KLMS.
+
+1. [Homework1](https://github.com/hongseok-yang/graduatePL19/blob/master/Homework/Homework1/homework1-questions.pdf)
 
 ## 4. Tentative Plan
 

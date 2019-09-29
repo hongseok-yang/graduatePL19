@@ -54,9 +54,9 @@ Submit your solutions by putting them in the homework submission box in the thir
 * 09/16 - The Simple Imperative Language (Ch2) ([note1](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture3/note1.jpg), [note2](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture3/note2.jpg), [note3](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture3/note3.jpg), [note4](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture3/note4.jpg), [note5](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture3/note5.jpg), [note6](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture3/note6.jpg)).
 * 09/18 - The Simple Imperative Language (Ch2).
 * 09/23 - The Simple Imperative Language (Ch2).
-* 09/25 - Program Specification and Their Proofs (Ch3).
-* 09/30 - Program Specification and Their Proofs (Ch3).
-* 10/02 - Failure, Input-Output, and Continuation (Ch5).
+* 09/25 - The Simple Imperative Language (Ch2).
+* 09/30 - Program Specification and Their Proofs (Ch3). ([note1](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture4/note1.jpg), [note2](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture4/note2.jpg), [note3](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture4/note3.jpg), [note4](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture4/note4.jpg)).
+* 10/02 - Program Specification and Their Proofs (Ch3). 
 * 10/07 - Failure, Input-Output, and Continuation (Ch5).
 * __**10/09 - NO LECTURE. Hangle Proclamation Day.**__
 * 10/14 - Failure, Input-Output, and Continuation (Ch5).

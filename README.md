@@ -8,6 +8,11 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 ## 1. Important Announcements
 
+#### [27 October] [Homework3](https://github.com/hongseok-yang/graduatePL19/blob/master/Homework/Homework3/homework3-questions.pdf) is out.
+
+The third [homework](https://github.com/hongseok-yang/graduatePL19/blob/master/Homework/Homework3/homework3-questions.pdf) is out. The deadline is 2:00pm on the 15th of November 2019 (Friday). Submit your solutions to the TAs by putting them in the homework submission box in the third floor of the E3-1 building. If you type up your solutions, you can submit them via KLMS.
+
+
 #### [13 October] [Homework2](https://github.com/hongseok-yang/graduatePL19/blob/master/Homework/Homework2/homework2-questions.pdf) is out.
 
 The second [homework](https://github.com/hongseok-yang/graduatePL19/blob/master/Homework/Homework2/homework2-questions.pdf) is out. The deadline is 2:00pm on the 30th of October 2019 (Wednesday). Submit your solutions to the TAs by putting them in the homework submission box in the third floor of the E3-1 building. If you type up your solutions, you can submit them via KLMS.
@@ -50,6 +55,8 @@ Submit your solutions by putting them in the homework submission box in the thir
 
 * [Homework1](https://github.com/hongseok-yang/graduatePL19/blob/master/Homework/Homework1/homework1-questions.pdf)
 * [Homework2](https://github.com/hongseok-yang/graduatePL19/blob/master/Homework/Homework2/homework2-questions.pdf)
+* [Homework3](https://github.com/hongseok-yang/graduatePL19/blob/master/Homework/Homework3/homework3-questions.pdf)
+
 
 ## 4. Tentative Plan
 

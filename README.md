@@ -66,13 +66,13 @@ Submit your solutions by putting them in the homework submission box in the thir
 * 10/07 - Failure, Input-Output, and Continuation (Ch5). ([note1](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture5/note1.jpg), [note2](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture5/note2.jpg), [note3](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture5/note3.jpg), [note4](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture5/note4.jpg), [note5](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture5/note5.jpg), [note6](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture5/note6.jpg), [note7](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture5/note7.jpg)).
 * __**10/09 - NO LECTURE. Hangle Proclamation Day.**__
 * 10/14 - Failure, Input-Output, and Continuation (Ch5).
-* 10/16 - Transition Semantics (Ch6).
+* 10/16 - Failure, Input-Output, and Continuation (Ch5).
 * __**10/21, 10/23 - NO LECTURES. Midterm Exam.**__
-* 10/28 - An Introduction to Category Theory (Tennent Ch8).
+* 10/28 - Transition Semantics (Ch6). ([note1](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture6/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture6/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture6/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture6/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture6/note5.jpeg)).
 * 10/30 - An Introduction to Category Theory (Tennent Ch8).
-* 11/04 - Recursively-Defined Domains (Tennent Ch10).
+* 11/04 - An Introduction to Category Theory (Tennent Ch8).
 * 11/06 - Recursively-Defined Domains (Tennent Ch10).
-* 11/11 - The Lambda Calculus (Ch10).
+* 11/11 - Recursively-Defined Domains (Tennent Ch10).
 * 11/13 - The Lambda Calculus (Ch10).
 * 11/18 - The Lambda Calculus (Ch10).
 * 11/20 - An Eager Functional Language (Ch11).

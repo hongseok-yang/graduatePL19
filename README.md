@@ -8,6 +8,10 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 ## 1. Important Announcements
 
+#### [27 October] The due date for the first critical review is approaching.
+
+The due date for the first critical review is the midnight on 1 November 2019 (Friday). Your review should be three pages or less. Make sure that you submit something even if your write-up is not as good as you want. As usual, you can submit your review in the CS520 homework submission box in the third floor of the E3-1 building, or electronically via KLMS.
+
 #### [27 October] [Homework3](https://github.com/hongseok-yang/graduatePL19/blob/master/Homework/Homework3/homework3-questions.pdf) is out.
 
 The third [homework](https://github.com/hongseok-yang/graduatePL19/blob/master/Homework/Homework3/homework3-questions.pdf) is out. The deadline is 2:00pm on the 15th of November 2019 (Friday). Submit your solutions to the TAs by putting them in the homework submission box in the third floor of the E3-1 building. If you type up your solutions, you can submit them via KLMS.

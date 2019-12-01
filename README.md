@@ -92,10 +92,10 @@ Submit your solutions by putting them in the homework submission box in the thir
 * 11/13 - Recursively-Defined Domains (Tennent Ch10).
 * 11/18 - The Lambda Calculus (Ch10). ([note1](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture9/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture9/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture9/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture9/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture9/note5.jpeg), [note6](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture9/note6.jpeg), [note7](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture9/note7.jpeg), [note8](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture9/note8.jpeg)).
 * 11/20 - The Lambda Calculus (Ch10).
-* 11/25 - An Eager Functional Language (Ch11).
+* 11/25 - The Lambda Calculus (Ch10).
 * __**11/27 - NO LECTURE. KAIST Undergraduate Admission.**__
-* 12/02 - An Eager Functional Language (Ch11).
-* 12/04 - Continuation in a Functional Language (Ch12).
+* 12/02 - An Eager Functional Language (Ch11). ([note1](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture10/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture10/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture10/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture10/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture10/note5.jpeg), [note6](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture10/note6.jpeg), [note7](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture10/note7.jpeg)).
+* 12/04 - An Eager Functional Language (Ch11).
 * 12/09 - Continuation in a Functional Language (Ch12).
 * 12/11 - A Normal-Order Language (Ch14).
 * __**12/16 12/18 - NO LECTURES. Final Exam.**__

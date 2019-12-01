@@ -10,11 +10,11 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 #### [1 December] The due date for the second critical review is approaching.
 
-As announced in the beginning of this course, the deadline for the second critical review is the midnight of the 9th of December in 2019 (Monday). To write a sensible review, you will have to study quite a bit. So, make sure that you start this assignment early enough.
+As announced in the beginning of this course, the deadline for the second critical review is the midnight of the 9th of December in 2019 (Monday). To write a sensible review, you will have to study not a small amount of materials. So, make sure that you start this assignment early enough.
 
 #### [1 December] [Homework5](https://github.com/hongseok-yang/graduatePL19/blob/master/Homework/Homework5/homework5-questions.pdf) is out.
 
-You don't have to submit your answers. But I strongly recommend you to try the questions in the homework before the final exam.
+You don't have to submit your answers. In fact, even if you submit something, we won't mark it. But I strongly recommend you to try the questions in the homework, at least before the final exam.
 
 #### [17 November] [Homework4](https://github.com/hongseok-yang/graduatePL19/blob/master/Homework/Homework4/homework4-questions.pdf) is out.
 

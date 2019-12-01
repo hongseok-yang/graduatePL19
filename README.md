@@ -8,6 +8,14 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 ## 1. Important Announcements
 
+#### [1 December] The due date for the second critical review is approaching.
+
+As announced in the beginning of this course, the deadline for the second critical review is the midnight of the 9th of December in 2019 (Monday). To write a sensible review, you will have to study quite a bit. So, make sure that you start this assignment early enough.
+
+#### [1 December] [Homework5](https://github.com/hongseok-yang/graduatePL19/blob/master/Homework/Homework5/homework5-questions.pdf) is out.
+
+You don't have to submit your answers. But I strongly recommend you to try the questions in the homework before the final exam.
+
 #### [17 November] [Homework4](https://github.com/hongseok-yang/graduatePL19/blob/master/Homework/Homework4/homework4-questions.pdf) is out.
 
 The fourth [homework](https://github.com/hongseok-yang/graduatePL19/blob/master/Homework/Homework4/homework4-questions.pdf) is out. The deadline is 2:00pm on the 4th of December 2019 (Wednesday). Submit your solutions to the TAs by putting them in the homework submission box in the third floor of the E3-1 building. If you type up your solutions, you can submit them via KLMS.
@@ -65,6 +73,7 @@ Submit your solutions by putting them in the homework submission box in the thir
 * [Homework2](https://github.com/hongseok-yang/graduatePL19/blob/master/Homework/Homework2/homework2-questions.pdf)
 * [Homework3](https://github.com/hongseok-yang/graduatePL19/blob/master/Homework/Homework3/homework3-questions.pdf)
 * [Homework4](https://github.com/hongseok-yang/graduatePL19/blob/master/Homework/Homework4/homework4-questions.pdf)
+* [Homework5](https://github.com/hongseok-yang/graduatePL19/blob/master/Homework/Homework5/homework5-questions.pdf)
 
 
 ## 4. Tentative Plan

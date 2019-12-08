@@ -105,8 +105,8 @@ Submit your solutions by putting them in the homework submission box in the thir
 * __**11/27 - NO LECTURE. KAIST Undergraduate Admission.**__
 * 12/02 - An Eager Functional Language (Ch11). ([note1](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture10/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture10/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture10/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture10/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture10/note5.jpeg), [note6](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture10/note6.jpeg), [note7](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture10/note7.jpeg)).
 * 12/04 - An Eager Functional Language (Ch11).
-* 12/09 - Continuation in a Functional Language (Ch12).
-* 12/11 - A Normal-Order Language (Ch14).
+* 12/09 - Continuation in a Functional Language (Ch12). ([note1](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture11/note1.jpeg), [note2](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture11/note2.jpeg), [note3](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture11/note3.jpeg), [note4](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture11/note4.jpeg), [note5](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture11/note5.jpeg), [note6](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture11/note6.jpeg), [note7](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture11/note7.jpeg), [note8](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture11/note8.jpeg), [note9](https://github.com/hongseok-yang/graduatePL19/blob/master/Lectures/Lecture11/note9.jpeg)).
+* 12/11 - Continuation in a Functional Language (Ch12).
 * __**12/16 12/18 - NO LECTURES. Final Exam.**__
 
 ## 5. Studying Materials

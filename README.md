@@ -8,6 +8,10 @@ The prerequisite of the course is CS320, the undergraduate-level programming-lan
 
 ## 1. Important Announcements
 
+#### [9 December] Reminder of the final exam.
+
+As announced before, the final exam will take place at our lecture room (room 112, N1) from 9:00am until 11:00am on 18 December 2019 (Wednesday). It is a closed-book exam, and it covers all the materials discussed in the lectures. The questions will be in a style similar to the homework exercises. 
+
 #### [1 December] The due date for the second critical review is approaching.
 
 As announced in the beginning of this course, the deadline for the second critical review is the midnight of the 9th of December in 2019 (Monday). To write a sensible review, you will have to study not a small amount of materials. So, make sure that you start this assignment early enough.
